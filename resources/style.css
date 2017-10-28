@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Verdana, sans-serif;
+}
+#headline {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.secondary{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.download-link {
+  color: aquamarine;
+  font-size: 16px
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+#trademark {
+  text-align: right;
+}
